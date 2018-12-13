@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1544709827 source:g:\computer and information science\academic\second\programming 2\assignments\3\assignment 3\main.cpp
+	<iostream>
+	"Machine.h"
+	"Item.h"
+	"Price.h"
+
+1544109339 source:g:\computer and information science\academic\second\programming 2\assignments\3\assignment 3\src\item.cpp
+	<iostream>
+	"Item.h"
+
+1544107012 g:\computer and information science\academic\second\programming 2\assignments\3\assignment 3\include\item.h
+	<iostream>
+	"Machine.h"
+
+1544107464 source:g:\computer and information science\academic\second\programming 2\assignments\3\assignment 3\src\machine.cpp
+	<iostream>
+	"Machine.h"
+
+1544106553 g:\computer and information science\academic\second\programming 2\assignments\3\assignment 3\include\machine.h
+	<iostream>
+	<string>
+
+1544709453 source:g:\computer and information science\academic\second\programming 2\assignments\3\assignment 3\src\price.cpp
+	<iostream>
+	"Price.h"
+
+1544709331 g:\computer and information science\academic\second\programming 2\assignments\3\assignment 3\include\price.h
+	<iostream>
+	"Machine.h"
+
